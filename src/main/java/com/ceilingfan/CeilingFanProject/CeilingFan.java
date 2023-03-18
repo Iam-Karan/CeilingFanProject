@@ -6,7 +6,7 @@ public class CeilingFan {
 
 	private Direction direction=Direction.FORWARD;
 	private State st=State.OFF;
-	private String inputDate="2021-12-25";
+	private String inputDate;
 	
 	
 	private enum Direction {
